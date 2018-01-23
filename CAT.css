@@ -1,0 +1,12 @@
+
+	li a{list-style:none; color: blue; border-radius: 120px; width: 60px; text-decoration: none;
+padding: 8px 16px; display: inline;}
+ul{display: inline; margin: 0; padding: 0; text-align: right;}
+li{display: inline;}
+body{background-image:url();
+	background-size: 50%; background-repeat: no-repeat;}
+#aa{text-align: center;}
+#bb{text-align: center;}
+body{background-image:url("pictures/tough_warrior.jpg/");
+background-repeat: no-repeat; background-size: 200%}
+h4{text-align: center;}
